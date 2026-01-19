@@ -53,6 +53,7 @@ Pagina oficial de Alternos
 | **Analítica** | Google Analytics, Hotjar | 
 | **SEO / Marketing**| Meta tags dinámicos, sitemap.xml, Open Graph, Mailchimp para newsletters |
 | **Soporte** | Freshdesk, Zendesk o sistema propio con tickets | 
+
 ---
 
 
