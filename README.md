@@ -56,16 +56,7 @@ Pagina oficial de Alternos
 
 ---
 
-flowchart TD
-  A["Navegador del Usuario"] -->|1. Visita el sitio| B["Frontend (App React)"]
-  B -->|2. Solicita info del juego, tráileres, foros| C["Backend"]
-  C -->|3. Lee/Escribe| D["Base de Datos"]
-  C -->|4. Obtiene URLs de medios| E["Almacenamiento/CDN"]
-  B -- Compra --> F["Pasarela de Pago (Stripe/PayPal)"]
-  F -- Confirmación --> C
-  B -- Foro --> C
-  B -->|5. Descarga instalador| E
-  B -->|6. Pide ayuda| C
-  C -->|7. Envía email/soporte| G["Sistema de Soporte/Email"]
+<img width="4987" height="2730" alt="Diagraama de flujo de Alternos" src="https://github.com/user-attachments/assets/65d2c544-57f6-4bf7-91db-8474eb0a524b" />
+
 
 
